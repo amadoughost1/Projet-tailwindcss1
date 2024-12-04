@@ -1,0 +1,16 @@
+span{
+    color: aqua;
+}
+nav{
+    display: flex;
+}
+h1{
+    color: aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color:aqua;
+}
